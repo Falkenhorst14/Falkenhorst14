@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Falkenhorst14!
 
-<!--
-**Falkenhorst14/Falkenhorst14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Falkenhorst14/Falkenhorst14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 I'm a software development student @iubh and software developer with an apprenticeship under my belt. I love building mobile apps and exploring new technologies, especially in the Android ecosystem!
@@ -23,9 +22,9 @@ I'm a software development student @iubh and software developer with an apprenti
 
 ---
 
-## 📊 Most Used Languages
+<!--## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Falkenhorst14&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Falkenhorst14&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
