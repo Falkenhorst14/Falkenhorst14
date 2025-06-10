@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Falkenhorst14!
 
-Falkenhorst14/Falkenhorst14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 I'm a software development student @iubh and software developer with an apprenticeship under my belt. I love building mobile apps and exploring new technologies, especially in the Android ecosystem!
 
