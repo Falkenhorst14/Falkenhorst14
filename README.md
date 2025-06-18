@@ -3,7 +3,7 @@
 
 I'm a software development student @iubh and software developer with an apprenticeship under my belt. I love building mobile apps and exploring new technologies, especially in the Android ecosystem!
 
-- 💻 Also familiar with: **C#**, **Web Development**, **Python**, **SQL**, **.NET**, **Git**
+- 💻 Familiar with: **C#**, **Web Development**, **Python**, **SQL**, **.NET**, **Git**
 
 ---
 
