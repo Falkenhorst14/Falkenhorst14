@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Falkenhorst14!
 
 
-I'm a software development student @iubh and software developer with an apprenticeship under my belt. I love building mobile apps and exploring new technologies, especially in the Android ecosystem!
+I'm a software developer with an apprenticeship under my belt. I love building mobile apps and exploring new technologies, especially in the Android ecosystem!
 
 - 💻 Familiar with: **C#**, **Web Development**, **Python**, **SQL**, **.NET**, **Git**
 
