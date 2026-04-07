@@ -32,7 +32,6 @@ I'm a software developer with an apprenticeship under my belt. I love building m
 
 [![Instagram](https://img.shields.io/badge/@lukasreipert-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lukasreipert/)
 
----
 
 ## 💬
 
